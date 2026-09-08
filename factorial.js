@@ -9,4 +9,3 @@ function factorial(numero) {
 let numero = 5;
 
 console.log("El factorial de " + numero + " es: " + factorial(numero));
-console.log("El factorial de " + numero + " es: " + factorial(numero(10)));
